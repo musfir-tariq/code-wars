@@ -1,2 +1,2 @@
 # code-wars
-This repo will contain coding solutions from code wars platform
+Contains coding solutions from code wars platform
